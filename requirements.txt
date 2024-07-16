@@ -6,3 +6,4 @@ flask
 datetime
 urllib3[socks]
 pysocks
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
